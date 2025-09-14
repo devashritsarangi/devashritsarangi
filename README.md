@@ -4,19 +4,13 @@ I am: 18M and Struggling.
 
 Hobbies: Coding, Trains and Space.
 
-
-Studying at:
-
-B.Tech - Computer Engineering (Class of '29)
-
-Odisha University of Technology and Research, Bhubaneswar, Odisha.
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning new technologies and frameworks
+- 🎓 Studying at: [Odisha University of Technology and Research](https://outr.ac.in)
 - 💬 Passionate learner, eager to talk anything tech.
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [devashrit.sarangi@outlook.com]
+- 📫 How to reach me: [via Email](mailto:devashrit.sarangi@outlook.com)
 
 ## 🛠️ Technologies & Tools
 
