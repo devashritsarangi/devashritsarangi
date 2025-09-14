@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Devashrit Sarangi!
 
-<!--
-**devashritsarangi/devashritsarangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am: 18M and Struggling.
 
-Here are some ideas to get you started:
+Hobbies: Coding, Trains and Space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Studying at:
+
+B.Tech - Computer Engineering (Class of '29)
+
+Odisha University of Technology and Research, Bhubaneswar, Odisha.
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning new technologies and frameworks
+- 💬 Passionate learner, eager to talk anything tech.
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: [devashrit.sarangi@outlook.com]
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+## 📊 GitHub Stats
+
+![Devashrit Sarangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devashritsarangi&show_icons=true&hide_title=true&count_private=true)
+
+## 📝 Latest Projects
+
+- [Shambhashanam (2023)](link-to-project-1) - Voice Chatbot before GPT-4o.
+- [TourOdishaAI (2025)](link-coming-soon) - Community-driven, AI-powered Tour Guide.
+
+---
+
+Thanks for visiting! 😊
