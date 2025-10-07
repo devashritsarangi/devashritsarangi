@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=5000&color=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+Devashrit+Sarangi!" alt="Typing SVG" /></a>
 </h1>
 
-- Studying at: [Odisha University of Technology and Research](https://outr.ac.in)
+- Pursuing Bachelors of Technology in **Computer Engineering** at Odisha University of Technology and Research (25-29).
 - Exploring more about Machine Learning with Python and hardware implementations (Arduinos and RaspPi).
 - Well versed with Python and some HTML/CSS. Learning C because of kawlijz.
 
