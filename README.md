@@ -1,8 +1,11 @@
-# I'm Devashrit Sarangi!
-- 🎓 Studying at: [Odisha University of Technology and Research](https://outr.ac.in)
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=5000&color=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+Devashrit+Sarangi!" alt="Typing SVG" /></a>
+</h1>
+
+- Studying at: [Odisha University of Technology and Research](https://outr.ac.in)
 - Exploring more about Machine Learning with Python and hardware implementations (Arduinos and RaspPi).
 - Well versed with Python and some HTML/CSS. Learning C because of kawlijz.
-- 
+
 - How to reach me: [via Email](mailto:devashrit.sarangi@outlook.com)
 
 ## Technologies & Tools
