@@ -6,21 +6,32 @@
 - Exploring more about Machine Learning with Python and hardware implementations (Arduinos and RaspPi).
 - Well versed with Python and some HTML/CSS. Learning C because of kawlijz.
 
-- How to reach me: [via Email](mailto:devashrit.sarangi@outlook.com)
+<div align="center">
+  <a href="mailto:sarangidevashrit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://github.com/WoozyDragon4018">
+    <img alt="Static Badge" src="https://img.shields.io/badge/My%20Old%20Github%20-My%20Old%20Github%20?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/devashrit-sarangi-676268389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## Technologies & Tools
+## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,mongodb,qt" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,tensorflow" />
+</p>
 
-## GitHub Stats
+## Projects
 
-![Devashrit Sarangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devashritsarangi&show_icons=true&hide_title=true&count_private=true)
-
-## Latest Projects
-
-- [Shambhashanam (2023)](link-to-project-1) - Voice Chatbot before GPT-4o.
+- [IRSet (2022)](https://github.com/WoozyDragon4018/IRSet) - (My old Github) Addon for OpenTTD adding Indian Trains to the game.
+- [Shambhashanam (2023)](https://github.com/devashritsarangi/Shambhashanam/) - Voice Chatbot before GPT-4o.
 - [TourOdishaAI (2025)](https://www.kaggle.com/code/devashritsarangi/tourodishaai) - Community-driven, AI-powered Tour Guide. (hosted in Kaggle)
 
 ---
