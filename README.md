@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/Reddit%20-%20Reddit?style=for-the-badge&logo=reddit&logoColor=white&color=%23FF4500" target-"_blank" />
   </a>
 </div>
+
 ## Languages and Tools
 
 <p align="center">
