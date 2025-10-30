@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=5000&color=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+Devashrit+Sarangi!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=3000&pause=10000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Hi%2C+I'm+Devashrit+Sarangi!" alt="Typing SVG" /></a>
 </h1>
 
 - Pursuing Bachelors of Technology in **Computer Engineering** at Odisha University of Technology and Research (25-29).
