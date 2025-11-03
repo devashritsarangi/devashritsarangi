@@ -3,7 +3,7 @@
 </h1>
 
 - Pursuing Bachelors of Technology in **Computer Engineering** at Odisha University of Technology and Research (25-29).
-- Exploring more about Machine Learning with Python and hardware implementations (Arduinos and RaspPi).
+- Exploring more about Machine Learning with Python.
 - Well versed with Python and some HTML/CSS. Learning C because of kawlijz.
 
 <div align="center">
